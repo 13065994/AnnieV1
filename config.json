@@ -8,7 +8,7 @@
     "prefixText": "Hello MATEO-CHATBOT is here and my prefix is: ",
     "botName": "Mateo Ai",
     "adminUids": [
-     ""
+     "8121662697"
     ],
     "PORT": 3000,
     "note": "bot name is important but add a single name. add supportGroupText,add the webhookURL for spying : )"
