@@ -1,6 +1,7 @@
 {
     "tg": [
         "7638158985:AAHFUZL4_4JaHGht871UAZH3xs5cFVfbbKc"
+    ],
     "prefix": "?",
     "webhookURL": "your_webhookURL", 
     "supportGroupText": "Welcome to the Mateo Ai! Type `help to see all available commands ",
