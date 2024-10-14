@@ -1,10 +1,9 @@
 {
     "tg": [
-        "8013731988:AAEIwCqC5Nm6qO_Z9kOlkz9a-stLTqsZRYU"
-    ],
+        "7638158985:AAHFUZL4_4JaHGht871UAZH3xs5cFVfbbKc"
     "prefix": "?",
     "webhookURL": "your_webhookURL", 
-    "supportGroupText": "Welcome to the Mateo Ai! Type `help to see all available commands",
+    "supportGroupText": "Welcome to the Mateo Ai! Type `help to see all available commands ",
     "prefixText": "Hello MATEO-CHATBOT is here and my prefix is: ",
     "botName": "Mateo Ai",
     "adminUids": [
