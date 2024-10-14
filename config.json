@@ -1,14 +1,14 @@
 {
     "tg": [
-        "get_the_bot_token_from_tg_botfather"
+        "8013731988:AAEIwCqC5Nm6qO_Z9kOlkz9a-stLTqsZRYU"
     ],
-    "prefix": "-",
+    "prefix": "?",
     "webhookURL": "your_webhookURL", 
-    "supportGroupText": "Welcome to the bot! Type `help to see all available commands.\nJoin the support box to know how to use or how to create these types of bots: https://t.me/+YNKDd9_jIeYxNDQ1",
-    "prefixText": "🌐 System prefix:",
-    "botName": "annie",
+    "supportGroupText": "Welcome to the Mateo Ai! Type `help to see all available commands",
+    "prefixText": "Hello MATEO-CHATBOT is here and my prefix is: ",
+    "botName": "Mateo Ai",
     "adminUids": [
-     "6371757771"
+     ""
     ],
     "PORT": 3000,
     "note": "bot name is important but add a single name. add supportGroupText,add the webhookURL for spying : )"
